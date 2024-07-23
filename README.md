@@ -21,13 +21,13 @@ cd surf
 ```
 ## Dynamic Relaxation
 Copy over a *dot-dat* file and call it `input.dat`
-### Initial Mesh: walldr.dat
-![coarse 2D input mesh](/assets/PNG/walldr.png)
 ```
 cd run
 cp ../dot-dat/walldr.dat 
 cp walldr.dat input.dat
 ```
+### Initial Mesh: walldr.dat
+![coarse 2D input mesh](/assets/PNG/walldr.png)
 Run the DR program `flat2`
 ```
 ../flat2 
