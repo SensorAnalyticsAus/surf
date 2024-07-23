@@ -19,10 +19,10 @@ sudo apt install okular ghostscript
 git clone https://github.com/SensorAnalyticsAus/surf.git
 cd surf
 ```
-## Initial Mesh
-![coarse 2D input mesh](/assets/PNG/walldr.png)
 ## Dynamic Relaxation
 Copy over a *dot-dat* file and call it `input.dat`
+### Initial Mesh: walldr.dat
+![coarse 2D input mesh](/assets/PNG/walldr.png)
 ```
 cd run
 cp ../dot-dat/walldr.dat 
