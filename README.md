@@ -9,6 +9,7 @@ Dynamic Relaxation (DR) is a niche finite element analysis (FEA) technique which
 * Generating a refined mesh using the meshing parameters computed during adaptive analysis.
 * Mapping the refined 2D adaptive mesh to coarse 3D mesh to form the final 3D refined mesh.
 ## Installation
+Assuming `gcc` is already installed.
 ```
 sudo apt update
 sudo apt upgrade
