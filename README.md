@@ -4,7 +4,7 @@
 Dynamic Relaxation (DR) is a niche finite element analysis (FEA) technique which allows analysis of flexible structures with very large structural deflections. This archive contains ANSI C and FORTRAN programs for carrying out adaptive DR analysis. This process can be broken down into following steps.
 
 * Specifying a coarse 2D mesh with boundary nodes and out-of-plane loaded nodes.
-* Computing the deformed coarse 3D mesh, from the loading, and elemental stresses by *DR*.
+* Computing the deformed coarse 3D mesh, from the loading, and elemental stresses by DR.
 * Conducting adaptive analysis.
 * Generating a refined mesh using the meshing parameters computed during adaptive analysis.
 * Mapping the refined 2D adaptive mesh to coarse 3D mesh to form the final 3D refined mesh.
@@ -206,7 +206,7 @@ okular pltf4.plt.pdf
 ```
 ![adaptive refined mesh walldr-oo.png](/assets/PNG/walldr-oo.png)
 ## Remarks
-The mapping of any 2D unstructured mess on to a 3D surface is explained in Khan and Topping [1]. Full details of adaptive DR are available in Topping and Khan [2].
+Mapping of any 2D unstructured mesh onto a 3D surface is detailed in Khan and Topping [1]. Further information on adaptive DR is available in Topping and Khan [2].
 
 ## References
 [[1](/assets/PDF/surf.pdf)] A.I. Khan and B.H.V. Topping Three Dimensional Adaptive Surface Re-Meshing For Large Displacement Finite Element Analysis.
