@@ -211,7 +211,7 @@ t
 Adaptive Refined Mesh walldr-oo.dat     
    4.6357120049427339E-310   0.0000000000000000        0.0000000000000000        0.0000000000000000
 ```
-## Display adaptively refined mesh in 3D
+## Display mapped mesh
 ```
 ps2pdf pltf4.plt
 okular pltf4.plt.pdf 
