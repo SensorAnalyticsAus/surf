@@ -80,6 +80,7 @@ walldr.dat after DR
 ps2pdf pltf4.plt
 okular pltf4.plt.pdf
 ```
+![DR displaced mesh walldr-o.dat](/assets/PNG/walldr-o.png)
 ## Adaptive Analysis
 ```
 cp data.dat walldr-o.dat
