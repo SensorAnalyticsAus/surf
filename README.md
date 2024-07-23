@@ -8,8 +8,6 @@ Dynamic Relaxation (DR) is a niche finite element analysis (FEA) technique which
 * Conducting adaptive analysis.
 * Generating a refined mesh using the meshing parameters computed during adaptive analysis.
 * Mapping the refined 2D adaptive mesh to coarse 3D mesh to form the final 3D refined mesh.
-## Initial Mesh
-![coarse 2D input mesh](/assets/PNG/walldr.png)
 ## Installation
 ```
 sudo apt update
@@ -20,7 +18,8 @@ sudo apt install okular ghostscript
 git clone https://github.com/SensorAnalyticsAus/surf.git
 cd surf
 ```
-
+## Initial Mesh
+![coarse 2D input mesh](/assets/PNG/walldr.png)
 ## Dynamic Relaxation
 Copy over a *dot-dat* file and call it `input.dat`
 ```
