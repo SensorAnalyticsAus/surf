@@ -18,6 +18,9 @@ sudo apt install okular ghostscript
 
 git clone https://github.com/SensorAnalyticsAus/surf.git
 cd surf
+make distclean
+make all
+make clean
 ```
 ## Dynamic Relaxation
 Copy over a *dot-dat* file and call it `input.dat`
