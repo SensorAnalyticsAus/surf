@@ -210,4 +210,5 @@ The mapping of any 2D unstructured mess on to a 3D surface is explained in Khan 
 
 ## References
 [[1](/assets/PDF/surf.pdf)] A.I. Khan and B.H.V. Topping Three Dimensional Adaptive Surface Re-Meshing For Large Displacement Finite Element Analysis.
+
 [[2](https://www.saxe-coburg.co.uk/pubs/descrip/btak.htm)]: PARALLEL FINITE ELEMENT COMPUTATIONS B.H.V. Topping and A.I. Khan
