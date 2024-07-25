@@ -176,7 +176,7 @@ Enter Nq or RETURN to accept computed value
 Nq is set to: 500.000000
 ***input.dat file has been generated***
 ```
-## Plot the 3D adaptive mesh
+## Plot the adaptive (3D) mesh
 ```
 ../plotp 
  output device is postscript file pltf*.plt
