@@ -1,7 +1,7 @@
 # Adaptive Dynamic Relaxation
 
 ## About
-Dynamic Relaxation (DR) is a niche finite element analysis (FEA) technique which allows analysis of flexible structures with very large structural deflections. This archive contains ANSI C and FORTRAN programs for carrying out adaptive DR analysis. This process can be broken down into following steps.
+Dynamic Relaxation (DR) is a niche finite element analysis (FEA) technique which allows form-finding of flexible objects such as roofing sails, elastic-receptacles, robotic masks etc. This archive contains ANSI C and FORTRAN programs for carrying out adaptive DR analysis. This process can be broken down into following steps.
 
 * Specifying a coarse 2D mesh with boundary nodes and out-of-plane loaded nodes.
 * Computing the deformed coarse 3D mesh, from the loading, and elemental stresses by DR.
