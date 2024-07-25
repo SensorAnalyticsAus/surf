@@ -221,9 +221,11 @@ okular pltf4.plt.pdf
 ```
 ![adaptive refined mesh walldr-oo.png](/assets/PNG/walldr-oo.png)
 ## Remarks
-Mapping of any 2D unstructured mesh onto a 3D surface is detailed in Khan and Topping [1]. Further information on adaptive DR is available in Topping and Khan [2].
+Mapping of any 2D unstructured mesh onto a 3D surface is detailed in Khan and Topping [1]. Further information on adaptive DR is available in Topping and Khan [2]. The DR method is outlined in Topping and Khan [3].
 
 ## References
-[[1](/assets/PDF/surf.pdf)] A.I. Khan and B.H.V. Topping Three Dimensional Adaptive Surface Re-Meshing For Large Displacement Finite Element Analysis.
+[[1](/assets/PDF/surf.pdf)] AI Khan and BHV Topping, Three Dimensional Adaptive Surface Re-Meshing For Large Displacement Finite Element Analysis
 
-[[2](https://www.saxe-coburg.co.uk/pubs/descrip/btak.htm)]: PARALLEL FINITE ELEMENT COMPUTATIONS B.H.V. Topping and A.I. Khan
+[[2](https://www.saxe-coburg.co.uk/pubs/descrip/btak.htm)]: BHV. Topping and AI Khan, PARALLEL FINITE ELEMENT COMPUTATIONS, Saxe-Coburg Publications
+
+[[3](/assets/PDF/pardr.pdf)]: BHV Topping, AI Khan, *Parallel schemes for dynamic relaxation*, engineering computations Int J Comput Aided Eng Software. v11, 513-548
